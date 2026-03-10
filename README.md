@@ -36,7 +36,9 @@ My goal was to build a clean and effective analytical pipeline while creating an
 ![Geographical Analysis](Media/p4.png)
 
 ## 📂 Repository Contents
-* `Traffic_Accident_Dashboard.pbix`: The main Power BI file containing the data model, DAX measures, and visualizations.
+* `Road_accident.pbix`: The main Power BI file containing the data model, DAX measures, and visualizations.
+* `Road_Accidents_Analysis.pdf`: A comprehensive PDF report detailing the dashboard pages and key analysis insights.
+* `Media/`: Folder containing the screenshots, images, and a video demonstration of the interactive dashboard.
 * `README.md`: Overview of the project and key insights.
 
 ---
